@@ -1,7 +1,10 @@
 # LeetCodeSolutions: 2028-Medium-find-missing-observations
 
-https://leetcode.com/problems/find-missing-observations/solutions/5741492/easy-solution-beats-82/
 
+
+Solution: https://leetcode.com/problems/find-missing-observations/solutions/5741492/easy-solution-beats-82/
+
+Description: https://leetcode.com/problems/find-missing-observations/description/
 
 ![image.png](https://assets.leetcode.com/users/images/52711ac7-9c05-4df0-8de8-89aa25c46eec_1725542068.3428433.png)
 
