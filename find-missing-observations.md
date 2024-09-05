@@ -1,4 +1,4 @@
-LeetCodeSolutions: 2028-Medium-find-missing-observations
+# LeetCodeSolutions: 2028-Medium-find-missing-observations
 
 https://leetcode.com/problems/find-missing-observations/solutions/5741492/easy-solution-beats-82/
 
