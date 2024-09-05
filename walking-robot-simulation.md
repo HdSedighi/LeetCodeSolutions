@@ -1,5 +1,9 @@
 # LeetCodeSolutions: 874-Medium-walking-robot-simulation
-https://leetcode.com/problems/walking-robot-simulation/solutions/5736515/optimal-solution-beats-93-7/
+
+
+Solution: https://leetcode.com/problems/walking-robot-simulation/solutions/5736515/optimal-solution-beats-93-7/
+
+Description: https://leetcode.com/problems/find-missing-observations/description/
 
 ![image.png](https://assets.leetcode.com/users/images/1f367f31-ed8e-4ba2-821f-3d155edb18bf_1725458305.8043625.png)
 
