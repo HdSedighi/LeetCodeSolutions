@@ -18,7 +18,19 @@ The project is organized into several sections, each dedicated to different type
 - **Study Solutions**: Read through the intuition and approach sections to understand how to tackle similar problems on your own.
 - **Practice Coding**: Use the provided code implementations as a reference, and try coding the solution yourself in your preferred language.
 - **Analyze Complexity**: Pay attention to the complexity analysis to better grasp the trade-offs involved in different approaches.
+## Solved Problems
 
+1. **[Delete Nodes from Linked List Present in Array](delete-nodes-from-linked-list-present-in-array.md)** - Remove nodes from a linked list that are present in a given array.
+
+2. **[Find Missing Observations](find-missing-observations.md)** - Determine the missing observations from a given dataset.
+
+3. **[Linked List in Binary Tree](linked-list-in-binary-tree.md)** - Check if a linked list exists as a path in a binary tree.
+
+4. **[Split Linked List into Parts](split-linked-list-in-parts.md)** - Split the linked list into `k` consecutive linked list parts.
+
+5. **[Walking Robot Simulation](walking-robot-simulation.md)** - Simulate the movement of a robot on a grid based on given commands.
+
+   
 ## Contribution Guidelines
 We welcome contributions from the community! If you’d like to contribute:
 - **Add New Problems**: Submit new problems with full descriptions, solutions, and analysis.
