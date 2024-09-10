@@ -29,7 +29,11 @@ The project is organized into several sections, each dedicated to different type
 4. **[Split Linked List into Parts](split-linked-list-in-parts.md)** - Split the linked list into `k` consecutive linked list parts.
 
 5. **[Walking Robot Simulation](walking-robot-simulation.md)** - Simulate the movement of a robot on a grid based on given commands.
-6. **[Spiral Matrix iv.md](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/spiral-matrix-iv.md)**
+   
+7. **[Spiral Matrix iv](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/spiral-matrix-iv.md)**
+   
+8. **[ insert-greatest-common-divisors-in-linked-list](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/insert-greatest-common-divisors-in-linked-list.md)**
+
 
    
 ## Contribution Guidelines
