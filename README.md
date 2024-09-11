@@ -33,6 +33,7 @@ The project is organized into several sections, each dedicated to different type
 7. **[Spiral Matrix iv](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/spiral-matrix-iv.md)**
    
 8. **[ insert-greatest-common-divisors-in-linked-list](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/insert-greatest-common-divisors-in-linked-list.md)**
+9. **[ minimum-bit-flips-to-convert-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-bit-flips-to-convert-number.md)**
 
 
    
