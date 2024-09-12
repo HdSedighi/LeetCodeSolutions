@@ -34,6 +34,7 @@ The project is organized into several sections, each dedicated to different type
    
 8. **[ insert-greatest-common-divisors-in-linked-list](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/insert-greatest-common-divisors-in-linked-list.md)**
 9. **[ minimum-bit-flips-to-convert-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-bit-flips-to-convert-number.md)**
+10. **[count-the-number-of-consistent-strings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/count-the-number-of-consistent-strings.md)**
 
 
    
