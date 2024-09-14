@@ -5,18 +5,12 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 
 ## Solved Problems
 
-1. **[Delete Nodes from Linked List Present in Array](delete-nodes-from-linked-list-present-in-array.md)** - Remove nodes from a linked list that are present in a given array.
-
-2. **[Find Missing Observations](find-missing-observations.md)** - Determine the missing observations from a given dataset.
-
-3. **[Linked List in Binary Tree](linked-list-in-binary-tree.md)** - Check if a linked list exists as a path in a binary tree.
-
-4. **[Split Linked List into Parts](split-linked-list-in-parts.md)** - Split the linked list into `k` consecutive linked list parts.
-
-5. **[Walking Robot Simulation](walking-robot-simulation.md)** - Simulate the movement of a robot on a grid based on given commands.
-   
-7. **[Spiral Matrix iv](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/spiral-matrix-iv.md)**
-   
+1. **[Delete Nodes from Linked List Present in Array](delete-nodes-from-linked-list-present-in-array.md)** 
+2. **[Find Missing Observations](find-missing-observations.md)** 
+3. **[Linked List in Binary Tree](linked-list-in-binary-tree.md)** 
+4. **[Split Linked List into Parts](split-linked-list-in-parts.md)** 
+5. **[Walking Robot Simulation](walking-robot-simulation.md)** 
+7. **[Spiral Matrix iv](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/spiral-matrix-iv.md)** 
 8. **[ insert-greatest-common-divisors-in-linked-list](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/insert-greatest-common-divisors-in-linked-list.md)**
 9. **[ minimum-bit-flips-to-convert-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-bit-flips-to-convert-number.md)**
 10. **[count-the-number-of-consistent-strings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/count-the-number-of-consistent-strings.md)**
