@@ -15,7 +15,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 9. **[ minimum-bit-flips-to-convert-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-bit-flips-to-convert-number.md)**
 10. **[count-the-number-of-consistent-strings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/count-the-number-of-consistent-strings.md)**
 11. **[xor-queries-of-a-subarray](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/xor-queries-of-a-subarray.md)**
-12.  **[longest-subarray-with-maximum-bitwise-and](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/longest-subarray-with-maximum-bitwise-and.md)** 
+12.  **[longest-subarray-with-maximum-bitwise-and](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/longest-subarray-with-maximum-bitwise-and.md)**
+13.  **[minimum-time-difference](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-time-difference.md)**
 
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
