@@ -18,7 +18,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 12.  **[longest-subarray-with-maximum-bitwise-and](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/longest-subarray-with-maximum-bitwise-and.md)**
 13.  **[minimum-time-difference](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-time-difference.md)**
 14.  **[uncommon-words-from-two-sentences](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/uncommon-words-from-two-sentences.md)** 
-15. **[largest-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/largest-number.md)** 
+15. **[largest-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/largest-number.md)**
+16.  **[different-ways-to-add-parentheses](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/different-ways-to-add-parentheses.md)** 
 
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
