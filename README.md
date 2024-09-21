@@ -20,7 +20,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 14.  **[uncommon-words-from-two-sentences](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/uncommon-words-from-two-sentences.md)** 
 15. **[largest-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/largest-number.md)**
 16.  **[different-ways-to-add-parentheses](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/different-ways-to-add-parentheses.md)**
-17. **[shortest-palindrome](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/shortest-palindrome.md)** 
+17. **[shortest-palindrome](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/shortest-palindrome.md)**
+18. **[lexicographical-numbers](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/lexicographical-numbers.md)** 
 
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
