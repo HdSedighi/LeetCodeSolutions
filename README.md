@@ -23,7 +23,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 17. **[shortest-palindrome](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/shortest-palindrome.md)**
 18. **[lexicographical-numbers](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/lexicographical-numbers.md)**
 19. **[k-th-smallest-in-lexicographical-order](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/k-th-smallest-in-lexicographical-order.md)**
-20. **[extra-characters-in-a-string](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/extra-characters-in-a-string.md)** 
+20. **[extra-characters-in-a-string](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/extra-characters-in-a-string.md)**
+21. **[find-the-length-of-the-longest-common-prefix](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/find-the-length-of-the-longest-common-prefix.md)** 
 
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
