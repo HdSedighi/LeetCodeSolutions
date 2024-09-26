@@ -10,23 +10,24 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 3. **[Linked List in Binary Tree](linked-list-in-binary-tree.md)** 
 4. **[Split Linked List into Parts](split-linked-list-in-parts.md)** 
 5. **[Walking Robot Simulation](walking-robot-simulation.md)** 
-7. **[Spiral Matrix iv](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/spiral-matrix-iv.md)** 
-8. **[ insert-greatest-common-divisors-in-linked-list](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/insert-greatest-common-divisors-in-linked-list.md)**
-9. **[ minimum-bit-flips-to-convert-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-bit-flips-to-convert-number.md)**
-10. **[count-the-number-of-consistent-strings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/count-the-number-of-consistent-strings.md)**
-11. **[xor-queries-of-a-subarray](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/xor-queries-of-a-subarray.md)**
-12.  **[longest-subarray-with-maximum-bitwise-and](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/longest-subarray-with-maximum-bitwise-and.md)**
-13.  **[minimum-time-difference](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-time-difference.md)**
-14.  **[uncommon-words-from-two-sentences](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/uncommon-words-from-two-sentences.md)** 
-15. **[largest-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/largest-number.md)**
-16.  **[different-ways-to-add-parentheses](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/different-ways-to-add-parentheses.md)**
-17. **[shortest-palindrome](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/shortest-palindrome.md)**
-18. **[lexicographical-numbers](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/lexicographical-numbers.md)**
-19. **[k-th-smallest-in-lexicographical-order](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/k-th-smallest-in-lexicographical-order.md)**
-20. **[extra-characters-in-a-string](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/extra-characters-in-a-string.md)**
-21. **[find-the-length-of-the-longest-common-prefix](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/find-the-length-of-the-longest-common-prefix.md)**
-22. **[sum-of-prefix-scores-of-strings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/sum-of-prefix-scores-of-strings.md)**
-23. **[my-calendar-i](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/my-calendar-i.md)** 
+6. **[Spiral Matrix iv](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/spiral-matrix-iv.md)** 
+7. **[ insert-greatest-common-divisors-in-linked-list](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/insert-greatest-common-divisors-in-linked-list.md)**
+8. **[ minimum-bit-flips-to-convert-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-bit-flips-to-convert-number.md)**
+9. **[count-the-number-of-consistent-strings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/count-the-number-of-consistent-strings.md)**
+10. **[xor-queries-of-a-subarray](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/xor-queries-of-a-subarray.md)**
+11.  **[longest-subarray-with-maximum-bitwise-and](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/longest-subarray-with-maximum-bitwise-and.md)**
+12.  **[minimum-time-difference](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-time-difference.md)**
+13.  **[uncommon-words-from-two-sentences](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/uncommon-words-from-two-sentences.md)** 
+14. **[largest-number](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/largest-number.md)**
+15.  **[different-ways-to-add-parentheses](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/different-ways-to-add-parentheses.md)**
+16. **[shortest-palindrome](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/shortest-palindrome.md)**
+17. **[lexicographical-numbers](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/lexicographical-numbers.md)**
+18. **[k-th-smallest-in-lexicographical-order](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/k-th-smallest-in-lexicographical-order.md)**
+19. **[extra-characters-in-a-string](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/extra-characters-in-a-string.md)**
+20. **[find-the-length-of-the-longest-common-prefix](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/find-the-length-of-the-longest-common-prefix.md)**
+21. **[sum-of-prefix-scores-of-strings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/sum-of-prefix-scores-of-strings.md)**
+22. **[my-calendar-i](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/my-calendar-i.md)** 
+
 
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
