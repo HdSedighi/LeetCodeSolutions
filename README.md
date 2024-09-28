@@ -27,7 +27,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 20. **[find-the-length-of-the-longest-common-prefix](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/find-the-length-of-the-longest-common-prefix.md)**
 21. **[sum-of-prefix-scores-of-strings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/sum-of-prefix-scores-of-strings.md)**
 22. **[my-calendar-i](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/my-calendar-i.md)**
-23. **[my-calendar-ii](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/my-calendar-ii.md)** 
+23. **[my-calendar-ii](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/my-calendar-ii.md)**
+24. **[design-circular-deque](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/design-circular-deque.md)** 
 
 
 ## Project Structure
