@@ -29,7 +29,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 22. **[my-calendar-i](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/my-calendar-i.md)**
 23. **[my-calendar-ii](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/my-calendar-ii.md)**
 24. **[design-circular-deque](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/design-circular-deque.md)**
-25.  **[all-oone-data-structure](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/all-oone-data-structure.md)** 
+25.  **[all-oone-data-structure](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/all-oone-data-structure.md)**
+26.  **[minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-number-of-swaps-to-make-the-string-balanced.md)** 
 
 
 ## Project Structure
