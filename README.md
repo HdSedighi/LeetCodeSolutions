@@ -35,7 +35,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 28.  **[the-number-of-the-smallest-unoccupied-chair](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/the-number-of-the-smallest-unoccupied-chair.md)**
 29.  **[divide-intervals-into-minimum-number-of-groups](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/divide-intervals-into-minimum-number-of-groups.md
 )** 
-
+30. **[maximal-score-after-applying-k-operations](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/maximal-score-after-applying-k-operations.md)**
+    
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
 
