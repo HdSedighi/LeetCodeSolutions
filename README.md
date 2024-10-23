@@ -37,7 +37,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 )** 
 30. **[maximal-score-after-applying-k-operations](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/maximal-score-after-applying-k-operations.md)**
 31. **[split-a-string-into-the-max-number-of-unique-substrings](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/split-a-string-into-the-max-number-of-unique-substrings.md)**
-32. **[kth-largest-sum-in-a-binary-tree](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/kth-largest-sum-in-a-binary-tree.md)** 
+32. **[kth-largest-sum-in-a-binary-tree](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/kth-largest-sum-in-a-binary-tree.md)**
+33. **[cousins-in-binary-tree-ii](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/cousins-in-binary-tree-ii.md)** 
     
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
