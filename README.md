@@ -40,6 +40,7 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 32. **[kth-largest-sum-in-a-binary-tree](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/kth-largest-sum-in-a-binary-tree.md)**
 33. **[cousins-in-binary-tree-ii](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/cousins-in-binary-tree-ii.md)**
 34.  **[flip-equivalent-binary-trees](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/flip-equivalent-binary-trees.md)**
+35.  **[remove-sub-folders-from-the-filesystem](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/remove-sub-folders-from-the-filesystem.md)**
     
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
