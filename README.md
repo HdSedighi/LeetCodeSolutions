@@ -42,7 +42,7 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 34.  **[flip-equivalent-binary-trees](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/flip-equivalent-binary-trees.md)**
 35.  **[remove-sub-folders-from-the-filesystem](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/remove-sub-folders-from-the-filesystem.md)**
 36.  **[count-square-submatrices-with-all-ones](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/count-square-submatrices-with-all-ones.md)**
-37.  **[add-two-numbers](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/add-two-numbersmd)**
+37.  **[add-two-numbers](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/add-two-numbers.md)**
     
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
