@@ -44,7 +44,8 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 36.  **[count-square-submatrices-with-all-ones](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/count-square-submatrices-with-all-ones.md)**
 37.  **[add-two-numbers](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/add-two-numbers.md)**
 38.  **[maximal-score-after-applying-k-operations](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/maximal-score-after-applying-k-operations.md)**
-39. **[minimum-number-of-removals-to-make-mountain-arra](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-number-of-removals-to-make-mountain-array.md)** 
+39. **[minimum-number-of-removals-to-make-mountain-arra](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-number-of-removals-to-make-mountain-array.md)**
+40.  **[delete-characters-to-make-fancy-string](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/delete-characters-to-make-fancy-string.md)** 
     
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
