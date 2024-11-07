@@ -50,6 +50,7 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 42. **[minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-number-of-changes-to-make-binary-string-beautiful.md)**
 43. **[largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/largest-combination-with-bitwise-and-greater-than-zero.md)**
     
+    
 ## Project Structure
 The project is organized into several sections, each dedicated to different types of problems (e.g., arrays, dynamic programming, graphs). For each problem, we provide:
 
