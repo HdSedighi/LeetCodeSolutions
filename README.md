@@ -50,6 +50,7 @@ In this project, we aim to provide comprehensive descriptions, intuitive approac
 42. **[minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/minimum-number-of-changes-to-make-binary-string-beautiful.md)**
 43. **[largest-combination-with-bitwise-and-greater-than-zero](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/largest-combination-with-bitwise-and-greater-than-zero.md)**
 44. **[maximum-xor-for-each-query](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/maximum-xor-for-each-query.md)**
+45.  **[count-the-number-of-fair-pairs](https://github.com/HdSedighi/LeetCodeSolutions/blob/main/count-the-number-of-fair-pairs.md)** 
     
     
 ## Project Structure
